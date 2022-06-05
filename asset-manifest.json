@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yaza_foco/static/css/main.073c9b0a.css",
+    "main.js": "/yaza_foco/static/js/main.6eb837a3.js",
+    "static/media/night_sky.jpeg": "/yaza_foco/static/media/night_sky.110a040bb39c80e368cc.jpeg",
+    "static/media/logo.png": "/yaza_foco/static/media/logo.256904650d9371b3ce8e.png",
+    "index.html": "/yaza_foco/index.html",
+    "main.073c9b0a.css.map": "/yaza_foco/static/css/main.073c9b0a.css.map",
+    "main.6eb837a3.js.map": "/yaza_foco/static/js/main.6eb837a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6eb837a3.js"
+  ]
+}
